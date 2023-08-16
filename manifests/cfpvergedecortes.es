@@ -19,7 +19,7 @@
                 xmlns="https://github.com/erasmus-without-paper/ewp-specs-api-discovery/blob/stable-v6/manifest-entry.xsd"
                 version="6.0.0"
             >
-                <url>https://unizoneewp.it.auth.gr/rest/manifest/cfpvergedecortes.es</url>
+                <url>https://raw.githubusercontent.com/mkurzydlowski/ewp-test-manifests/master/manifests/cfpvergedecortes.es</url>
             </discovery>
         </r:apis-implemented>
         <institutions-covered>

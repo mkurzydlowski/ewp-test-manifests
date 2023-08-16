@@ -19,7 +19,7 @@
                 xmlns="https://github.com/erasmus-without-paper/ewp-specs-api-discovery/blob/stable-v6/manifest-entry.xsd"
                 version="6.0.0"
             >
-                <url>https://unizoneewp.it.auth.gr/rest/manifest/cmbs.edu.mt</url>
+                <url>https://raw.githubusercontent.com/mkurzydlowski/ewp-test-manifests/master/manifests/cmbs.edu.mt</url>
             </discovery>
         </r:apis-implemented>
         <institutions-covered>

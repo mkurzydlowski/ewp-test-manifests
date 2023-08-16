@@ -19,7 +19,7 @@
                 xmlns="https://github.com/erasmus-without-paper/ewp-specs-api-discovery/blob/stable-v6/manifest-entry.xsd"
                 version="6.0.0"
             >
-                <url>https://unizoneewp.it.auth.gr/rest/manifest/fpsafor.com</url>
+                <url>https://raw.githubusercontent.com/mkurzydlowski/ewp-test-manifests/master/manifests/fpsafor.com</url>
             </discovery>
             <omobility-las
                 xmlns="https://github.com/erasmus-without-paper/ewp-specs-api-omobility-las/blob/stable-v1/manifest-entry.xsd"
