@@ -53,8 +53,8 @@
                 <max-ounit-codes>100</max-ounit-codes>
             </organizational-units>
             <iias
-                xmlns="https://github.com/erasmus-without-paper/ewp-specs-api-iias/blob/stable-v6/manifest-entry.xsd"
-                version="6.2.0"
+                xmlns="https://github.com/erasmus-without-paper/ewp-specs-api-iias/blob/stable-v7/manifest-entry.xsd"
+                version="7.0.0"
             >
                 <http-security>
                     <sec:client-auth-methods>
@@ -66,7 +66,6 @@
                 </http-security>
                 <get-url>https://unizoneewp.it.auth.gr/rest/iias/get/filmschool.lodz.pl</get-url>
                 <max-iia-ids>1</max-iia-ids>
-                <max-iia-codes>1</max-iia-codes>
                 <index-url>https://unizoneewp.it.auth.gr/rest/iias/index/filmschool.lodz.pl</index-url>
                 <stats-url>https://unizoneewp.it.auth.gr/rest/iias/stats/filmschool.lodz.pl</stats-url>
             </iias>
