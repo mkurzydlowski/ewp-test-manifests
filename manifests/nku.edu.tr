@@ -84,8 +84,8 @@
                 <url>https://unizoneewp.it.auth.gr/rest/iias/cnr/nku.edu.tr</url>
             </iia-cnr>
             <iias-approval
-                xmlns="https://github.com/erasmus-without-paper/ewp-specs-api-iias-approval/blob/stable-v1/manifest-entry.xsd"
-                version="1.1.0"
+                xmlns="https://github.com/erasmus-without-paper/ewp-specs-api-iias-approval/blob/stable-v2/manifest-entry.xsd"
+                version="2.0.0"
             >
                 <http-security>
                     <sec:client-auth-methods>
