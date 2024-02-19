@@ -55,8 +55,8 @@
                 <stats-url>https://unizoneewp.it.auth.gr/rest/iias/stats/wsz.pl</stats-url>
             </iias>
             <iia-cnr
-                xmlns="https://github.com/erasmus-without-paper/ewp-specs-api-iia-cnr/blob/stable-v2/manifest-entry.xsd"
-                version="2.0.2"
+                xmlns="https://github.com/erasmus-without-paper/ewp-specs-api-iia-cnr/blob/stable-v3/manifest-entry.xsd"
+                version="3.0.0"
             >
                 <http-security>
                     <sec:client-auth-methods>
