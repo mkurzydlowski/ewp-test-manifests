@@ -9879,4 +9879,8 @@
     <location>https://raw.githubusercontent.com/mkurzydlowski/ewp-test-manifests/master/manifests/ulpgc.es</location>
     <hei-regex>^ulpgc\.es$</hei-regex>
   </source>
+  <source>
+    <location>https://ewp.demo.usos.edu.pl/ewp/manifest</location>
+    <hei-regex>^demo\.usos\.edu\.pl$</hei-regex>
+  </source>
 </manifest-sources>
